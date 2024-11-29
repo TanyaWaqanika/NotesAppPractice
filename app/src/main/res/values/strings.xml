@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CleanArchitectureNoteApp</string>
+    <string name="app_name">NotesPracticeApp</string>
+    <string name="note_title">Title</string>
+    <string name="note_date">Date</string>
+    <string name="note_colour">Colour</string>
+    <string name="order_Ascending">Ascending</string>
+    <string name="order_Descending">Descending</string>
 </resources>
